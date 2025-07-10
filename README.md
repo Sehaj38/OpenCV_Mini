@@ -4,4 +4,8 @@ In this mini project we capture live webcam video, convert the feed to grayscale
 - Captures frames from your default webcam.
 - Converts each frame to grayscale.
 - Resizes the frame to 1/4 of your screen resolution.
-- Displays the result in a window until you press ESC.
+- Displays the result in a window until you press q.
+
+## Requirements
+- Python 3.x
+- OpenCV (opencv-python)
